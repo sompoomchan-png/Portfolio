@@ -1,72 +1,4 @@
-# Portfolio
-Identify
-<!DOCTYPE html>
-<html lang="th">
-<head>
-  <meta charset="UTF-8">
-  <title>แฟ้มประวัติราชการ สมภูมิ ชาญชาตรีรัตน์</title>
-  <style>
-    body {
-      font-family: "TH SarabunPSK", "Tahoma", sans-serif;
-      line-height: 1.8;
-      margin: 60px;
-      background-color: #ffffff;
-      color: #000000;
-    }
-    .cover {
-      text-align: center;
-      page-break-after: always;
-      margin-top: 150px;
-    }
-    .cover img {
-      width: 150px;
-      margin-bottom: 20px;
-    }
-    .cover h1 {
-      font-size: 32px;
-      margin: 10px 0;
-    }
-    .cover h2 {
-      font-size: 26px;
-      margin: 10px 0;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    header img {
-      width: 110px;
-      margin-bottom: 10px;
-    }
-    h1 {
-      font-size: 28px;
-      margin: 5px 0;
-    }
-    h2 {
-      font-size: 22px;
-      margin-top: 35px;
-      border-bottom: 2px solid #000;
-      padding-bottom: 6px;
-    }
-    p, li {
-      font-size: 18px;
-    }
-    ul {
-      margin: 10px 0 10px 30px;
-    }
-  </style>
-</head>
-<body>
-
-  <!-- หน้าปก -->
-  <div class="cover">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Emblem_of_Thailand.svg" alt="ตราครุฑ">
-    <h1>แฟ้มประวัติราชการ</h1>
-    <h2>พันตำรวจโท สมภูมิ ชาญชาตรีรัตน์</h2>
-    <p>กองบัญชาการตำรวจสอบสวนกลาง</p>
-  </div>
-
-  <!-- เนื้อหา -->
+</html>
   <header>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Emblem_of_Thailand.svg" alt="ตราครุฑ">
     <h1>ประวัติราชการ</h1>
@@ -87,7 +19,7 @@ Identify
 
   <h2>ประวัติการทำงาน</h2>
   <ul>
-    <li>พ.ศ. 2554 – เริ่มเข้ารับราชการตำรวจ สังกัดตำรวจสอบสวนกลาง</li>
+    <li>พ.ศ. 2551 – เริ่มเข้ารับราชการตำรวจ สังกัดตำรวจสอบสวนกลาง</li>
     <li>พ.ศ. 2562 – ดำรงตำแหน่งสารวัตรสืบสวน</li>
     <li>พ.ศ. 2567 – รองผู้กำกับการสืบสวน และผู้กำกับการสืบสวนทางเทคโนโลยี</li>
   </ul>
